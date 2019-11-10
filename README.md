@@ -25,3 +25,5 @@ This is edited.
 Second edited.
 ##
 Adding a line for rebasing example
+##
+Second Rebase test
